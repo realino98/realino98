@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @realino98
+- 👋 Hi, I’m @realino98, you can call me Bernard
 - 👀 I’m interested in Python Scripts, Automation, and WebScraping I'm addicted
 - 🌱 I’m currently learning Python as my main language
 - 💞️ I’m looking to collaborate on Python Project
