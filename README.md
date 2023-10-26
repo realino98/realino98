@@ -1,3 +1,4 @@
+![image](https://i.pinimg.com/originals/f8/18/3c/f8183c36fec5e1756f3c9875da245362.gif)
 <h1 align="center">Hi 👋, I'm Bernard Realino</h1>
 <h3 align="center">A passionate developer from Indonesia</h3>
 
