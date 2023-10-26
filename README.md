@@ -2,6 +2,7 @@
 <h3 align="center">A passionate developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realino98&label=Profile%20views&color=0e75b6&style=flat" alt="realino98" /> </p>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmttbG9vdHM4OThpMmNuNDk2MWgyc2R0czlud3ZnY29mMHE1dGRiYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🔭 I’m currently working on **Flutter**
 
