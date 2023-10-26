@@ -1,9 +1,12 @@
-![image](https://i.pinimg.com/originals/f8/18/3c/f8183c36fec5e1756f3c9875da245362.gif)
+<!-- ![image](https://github.com/realino98/realino98/assets/63583418/de6b852d-013c-4aab-b082-87fdf4e2eba8)
+<!-- <img align="center" width="600" src="https://i.pinimg.com/564x/a0/57/af/a057afe4ded4705c350f58f5be2521af.jpg"> -->
+
+<!-- ![image](https://i.pinimg.com/originals/f8/18/3c/f8183c36fec5e1756f3c9875da245362.gif) -->
 <h1 align="center">Hi 👋, I'm Bernard Realino</h1>
 <h3 align="center">A passionate developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realino98&label=Profile%20views&color=0e75b6&style=flat" alt="realino98" /> </p>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmttbG9vdHM4OThpMmNuNDk2MWgyc2R0czlud3ZnY29mMHE1dGRiYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmttbG9vdHM4OThpMmNuNDk2MWgyc2R0czlud3ZnY29mMHE1d!GRiYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🔭 I’m currently working on **Flutter**
 
